@@ -4,3 +4,4 @@ Test
 
 - feature-A
 - fix-B
+- feature-D
